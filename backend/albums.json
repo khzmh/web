@@ -1,0 +1,24 @@
+[
+  {
+    "id": "album-1",
+    "clientName": "Budi & Siti",
+    "albumName": "Pernikahan Budi & Siti",
+    "description": "Momen bahagia Budi dan Siti di hari spesial mereka.",
+    "imageUrls": [
+      "/images/budi-siti-1.jpg",
+      "/images/budi-siti-2.jpg",
+      "/images/budi-siti-3.jpg"
+    ]
+  },
+  {
+    "id": "album-2",
+    "clientName": "Andi & Maya",
+    "albumName": "Acara Andi & Maya",
+    "description": "Kenangan indah bersama Andi dan Maya.",
+    "imageUrls": [
+      "/images/andi-maya-1.jpg",
+      "https://via.placeholder.com/600/92c952",
+      "https://via.placeholder.com/600/771796"
+    ]
+  }
+]
